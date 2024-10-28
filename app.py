@@ -23,7 +23,7 @@ def predict(Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, Bmi, Dp
     if prediction == 1:
         result = {
             'prediction': "You have high chances of Diabetes! Please consult a Doctor",
-            'gif_url': "https://tenor.com/view/rat-cry-mouse-cutie-gif-8391713226319350655"
+            'gif_url': "https://media1.tenor.com/m/dHVat9e2S38AAAAC/rat-cry-mouse-cutie.gif"
         }
     else:
         result = {
